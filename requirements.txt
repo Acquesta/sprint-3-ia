@@ -1,0 +1,9 @@
+pandas==2.3.3
+numpy==2.5.3
+scikit-learn==1.9.0
+matplotlib==3.11.2
+seaborn==0.13.2
+mlflow==2.22.5
+# mlflow 2.22 não funciona com SQLAlchemy 2.1
+sqlalchemy==2.0.54
+jupyter==1.1.1
